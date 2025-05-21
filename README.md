@@ -31,7 +31,7 @@ Ardından, ilişkisel cebir ifadenizi girerek karşılık gelen SQL sorgusunu el
 **Örnek:**
 
 ```bash
-Giriş: σ(age = 20)(Person)
+Giriş: CMD_SELECT(age = 20)(Person)
 Çıkış: SELECT * FROM Person WHERE age = 20;
 ```
 
