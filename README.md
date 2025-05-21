@@ -23,7 +23,7 @@ Bu adımlar, `main.c` ve `parser_utils.c` dosyalarını derleyerek çalıştır�
 Programı çalıştırmak için terminalde aşağıdaki komutu kullanabilirsiniz:
 
 ```bash
-./parser
+./parser <input>
 ```
 
 Ardından, ilişkisel cebir ifadenizi girerek karşılık gelen SQL sorgusunu elde edebilirsiniz.
