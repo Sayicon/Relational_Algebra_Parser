@@ -43,6 +43,16 @@ Giriş: σ(age = 20)(Person)
 - `Makefile`: Derleme talimatları.
 - `libft/`: Yardımcı kütüphane dosyaları.
 
+## 🚧 Geliştirme Durumu
+
+Bu proje aktif olarak geliştirilmektedir. Planlanan bazı özellikler:
+
+- Geliştirmeye yeni başlandı henüz çalışmamakta.
+- Daha fazla ilişkisel cebir operatör desteği
+- Hata kontrol sisteminin güçlendirilmesi
+- Karmaşık iç içe sorguların desteklenmesi
+
+
 ## 🤝 Katkıda Bulunma
 
 Katkılarınızı memnuniyetle karşılıyoruz! Hataları bildirmek veya yeni özellikler önermek için lütfen bir [issue](https://github.com/Sayicon/Relational_Algebra_Parser/issues) oluşturun veya bir [pull request](https://github.com/Sayicon/Relational_Algebra_Parser/pulls) gönderin.
