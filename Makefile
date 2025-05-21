@@ -1,4 +1,4 @@
-NAME = CebirParser
+NAME = parser
 
 CC = cc
 CFLAGS = -Wall -Wextra -Werror
